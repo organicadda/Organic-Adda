@@ -1,4 +1,5 @@
 Organic-Adda
-============
+Hello World
+Welcome to the first ever hangout for a healthy living!!
 
-Experiment 1.0
+Lets eat clean.
